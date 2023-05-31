@@ -46,6 +46,10 @@ body {
     border: 5px solid white;
 }
 
+.info {
+    padding: 10px 0 10px 0;
+}
+
 .info h1 {
     margin-top: 70px;
     margin-bottom: 10px;
@@ -73,7 +77,9 @@ body {
 
 .social-info p:first-child {
     font-weight: 700;
+    font-size: 1.5rem;
     color: var(--very-dark-desaturated-blue);
+    margin-bottom: 8px;
 }
 
 .social-info p:last-child {
