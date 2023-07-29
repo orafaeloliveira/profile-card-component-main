@@ -34,20 +34,6 @@ body {
     left: 50%;
 }
 
-/* body::before {
-    position: absolute;
-    content: url(./images/bg-pattern-top.svg);
-    top: -80%;
-    left: -21%;
-}
-
-body::after {
-    position: absolute;
-    content: url(./images/bg-pattern-bottom.svg);
-    right: -19%;
-    bottom: -100%;
-} */
-
 .card {
     display: grid;
     grid-template-rows: auto 1fr auto;
