@@ -104,4 +104,5 @@ body, html {
 .social-info p:last-child {
     color: var(--dark-grayish-blue);
     font-size: 12px;
+    letter-spacing: 1.5px;
 }
